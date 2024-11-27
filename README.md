@@ -1,6 +1,6 @@
 **GitHub Repository Description for E-Beauty Services**  
 
-**Repository Name:** `e-beauty-services`  
+**Repository Name:** `Beautique`  
 
 **Description:**  
 E-Beauty Services is a web-based application designed to automate beauty parlour services. This system offers an easy-to-use interface for users and administrators, streamlining appointment scheduling, service management, and stock maintenance. It also supports additional features like beauty course registration, home services, package selection, and hair donation for cancer patients.  
